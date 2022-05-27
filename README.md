@@ -1,2 +1,2 @@
 # QueraCompitation
-Temp . . .
+A temprory project
